@@ -1,0 +1,42 @@
+body {
+  font-family: 'Helvetica', sans-serif;
+  background-color: #faf7fc;
+  color: #2a1a40;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #d8b7f4;
+  color: #2a1a40;
+  padding: 20px 0;
+  text-align: center;
+}
+
+nav a {
+  color: #2a1a40;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #7b3fa1;
+}
+
+section {
+  padding: 40px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2 {
+  color: #7b3fa1;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 20px;
+}
